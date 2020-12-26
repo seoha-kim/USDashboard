@@ -5,4 +5,4 @@ By analyzing the comments on the first/final debate videos of three different br
 # Tableau Pulbic URL
 https://public.tableau.com/profile/seoha#!/vizhome/USElectionDashboard_16089255441960/2020U_S_Election-YoutubersChoice?publish=yes
 <br>
-![2020 US ELection Dashboard](2020 U.S. Election - Youtuber's Choice.png)
+![2020 US ELection Dashboard](USDashboard.png)
